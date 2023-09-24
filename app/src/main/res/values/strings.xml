@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Aplicacion 4</string>
+    <string name="app_name">Aplicacion 4_7s21</string>
     <string name="p1titulo">Manejo de actividades (layout)</string>
     <string name="p1actbase">Actividad Basica</string>
     <string name="p1actparce">Actividad parceable</string>
@@ -10,6 +10,10 @@
     <string name="p2titulo">Actividad Basica</string>
     <string name="p2mensaje">Nombre recibido</string>
     <string name="p2btnreg">Regresar</string>
+    
+    <string name="p3titulo">Elementos parcelables datos</string>
+    <string name="p3informacion">Datos obtenidos</string>
+    <string name="p3btnregresa">Regresar al home</string>
 
 
 </resources>
