@@ -10,10 +10,12 @@
     <string name="p2titulo">Actividad Basica</string>
     <string name="p2mensaje">Nombre recibido</string>
     <string name="p2btnreg">Regresar</string>
-    
+
     <string name="p3titulo">Elementos parcelables datos</string>
     <string name="p3informacion">Datos obtenidos</string>
     <string name="p3btnregresa">Regresar al home</string>
 
-
+    <string name="p4titulo">Regresa estado de cierre de la actividad</string>
+    <string name="p4btnok">Cerrar con exito</string>
+    <string name="p4btncancelar">Cerrado con error</string>
 </resources>
